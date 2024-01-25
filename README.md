@@ -6,7 +6,7 @@
 </div>
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Konnichiwa+Visitor!+👋;+I'm+Rus;+I+love+technology+and+anime;+Coldplay+is+my+favorite+band;+Enjoy+your+stay;+Have+a+great+day!" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Konnichiwa+Visitor!+👋;+I'm+Rus;+I+love+technology+and+anime;+I+also+code+for+fun;+Coldplay+is+my+favorite+band;+Enjoy+your+stay;+Have+a+great+day!" />
 </h1>
 
 <h3 align="center">A programmer wannabe 👾</h3>
@@ -79,13 +79,18 @@
 
 <img width=325 align="center" src="https://github-readme-stats-one-phi-66.vercel.app/api/top-langs/?username=dr-dolomite&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 <br/>
+
+</div>
+<br/>
+<br/>
 <hr/>
+
 
 <h2 align="center"> 👾 Recent Activities 👾
 <br/>
 <br/>
 
-</div>
+
 
 <!--START_SECTION:activity-->
 1. ❗ Opened issue [#9](https://github.com/natecarlson/quectel-rgmii-configuration-notes/issues/9) in [natecarlson/quectel-rgmii-configuration-notes](https://github.com/natecarlson/quectel-rgmii-configuration-notes)
