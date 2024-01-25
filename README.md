@@ -56,8 +56,12 @@
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
-<div align="left">
-[![GitHub Streak](https://github-readme-streak-stats-seven-jade.vercel.app?user=dr-dolomite&theme=tokyonight-duo)](https://git.io/streak-stats)
+<div align="center">
+ <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-zeta-five.vercel.app?user=dr-dolomite&theme=tokyonight-duo" alt="GitHub Streak" /></a>
+    <br/>
+  <img width=390 src="https://github-readme-stats-one-phi-66.vercel.app/api?username=dr-dolomite&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats-one-phi-66.vercel.app/api/top-langs/?username=dr-dolomite&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
 <br/><br/>
@@ -67,7 +71,7 @@
 <br/>
 
 <div align="center">
-<a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+<a href='https://ko-fi.com/drdolomite' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 </div>
 
 <br/>
