@@ -56,7 +56,9 @@
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
-<img src="https://github-readme-streak-stats-seven-jade.vercel.app?user=dr-dolomite&theme=tokyonight-duo&hide_border=true" alt="GitHub Streak" />
+<div align="left">
+[![GitHub Streak](https://github-readme-streak-stats-seven-jade.vercel.app?user=dr-dolomite&theme=tokyonight-duo)](https://git.io/streak-stats)
+</div>
 
 <br/><br/>
 
