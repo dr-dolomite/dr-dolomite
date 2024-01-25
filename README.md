@@ -1,4 +1,13 @@
-### Hi there 👋
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=dr-dolomite.dr-dolomite"/>
+
+<h1 align="center>
+  <a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com/?
+font=Rigtheous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Konnichiwa+;Hello+(｡･∀･)ﾉﾞ;+I'm+Rus;+A+simple+programmer+wannabe;"/>
+</a>
+</h1>
+
+<h3 align="center"> A tehch and innovation lover from PH</h3>
 
 <!--
 **dr-dolomite/dr-dolomite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
