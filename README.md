@@ -68,11 +68,19 @@
     <br/>
   <img width=325 align="center" src="https://github-readme-stats-one-phi-66.vercel.app/api/top-langs/?username=dr-dolomite&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
+<br/>
+<hr/>
 
-<br/><br/>
+<h2 align="center"> 👾 Activities 👾
+<br>
+<div align="center">
+<!--START_SECTION:activity-->
+
+</div>
 
 <hr/>
 
+<br/>
 <br/>
 
 <div align="center">
