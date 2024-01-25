@@ -71,14 +71,13 @@
 <br/>
 <hr/>
 
-<h2 align="center"> 👾 Activities 👾
-<br>
-<div align="center">
+<h2 align="center"> 👾 Recent Activities 👾
+<br/>
+<br/>
+
 <!--START_SECTION:activity-->
 1. ❗ Opened issue [#9](https://github.com/natecarlson/quectel-rgmii-configuration-notes/issues/9) in [natecarlson/quectel-rgmii-configuration-notes](https://github.com/natecarlson/quectel-rgmii-configuration-notes)
 <!--END_SECTION:activity-->
-
-</div>
 
 <hr/>
 
