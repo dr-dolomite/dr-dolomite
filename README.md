@@ -1,10 +1,10 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=dr-dolomite.dr-dolomite" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Konnichiwa+Visitor!+👋;+I'm+Rus;+I+love+technology+and+anime;+Have+a+great+day!" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Konnichiwa+Visitor!+👋;+I'm+Rus;+I+love+technology+and+anime;Enjoy+your+stay;+Have+a+great+day!" />
 </h1>
 
-<h3 align="center">A programmer wannabbe from Philippines 👾</h3>
+<h3 align="center">A programmer wannabe 👾</h3>
 
 <br/>
 
@@ -21,6 +21,10 @@
  </div>
  
 <div align="center"> 
+      </a>
+      <a href="www.youtube.com/@rus-fastnetph3428" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=youtube&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  </a>
   <a href="mailto:russel.yasol@wvsu.edu.ph">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
@@ -29,7 +33,6 @@
   </a>
   <a href="https://portfolio-madness.vercel.app" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
-  </a>
 </div>
 
  <hr/>
@@ -59,8 +62,10 @@
 <div align="center">
  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-zeta-five.vercel.app?user=dr-dolomite&theme=tokyonight-duo" alt="GitHub Streak" /></a>
     <br/>
+    <br/>
   <img width=390 src="https://github-readme-stats-one-phi-66.vercel.app/api?username=dr-dolomite&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
+    <br/>
   <img width=325 align="center" src="https://github-readme-stats-one-phi-66.vercel.app/api/top-langs/?username=dr-dolomite&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
