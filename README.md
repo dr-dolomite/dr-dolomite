@@ -93,7 +93,7 @@
 
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#9](https://github.com/natecarlson/quectel-rgmii-configuration-notes/issues/9) in [natecarlson/quectel-rgmii-configuration-notes](https://github.com/natecarlson/quectel-rgmii-configuration-notes)
+1. 🎉 Merged PR [#2](https://github.com/dr-dolomite/MolarSupport/pull/2) in [dr-dolomite/MolarSupport](https://github.com/dr-dolomite/MolarSupport)
 <!--END_SECTION:activity-->
 
 <hr/>
