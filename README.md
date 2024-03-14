@@ -93,7 +93,7 @@
 
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [MolarSupport v0.1.1](https://github.com/dr-dolomite/MolarSupport/releases/tag/Releases) in [dr-dolomite/MolarSupport](https://github.com/dr-dolomite/MolarSupport)
+1. ❗ Opened issue [#7](https://github.com/iamromulan/quectel-rgmii-toolkit/issues/7) in [iamromulan/quectel-rgmii-toolkit](https://github.com/iamromulan/quectel-rgmii-toolkit)
 <!--END_SECTION:activity-->
 
 <hr/>
