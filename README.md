@@ -93,7 +93,7 @@
 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#9](https://github.com/iamromulan/quectel-rgmii-toolkit/pull/9) in [iamromulan/quectel-rgmii-toolkit](https://github.com/iamromulan/quectel-rgmii-toolkit)
+1. 💪 Opened PR [#10](https://github.com/iamromulan/quectel-rgmii-toolkit/pull/10) in [iamromulan/quectel-rgmii-toolkit](https://github.com/iamromulan/quectel-rgmii-toolkit)
 <!--END_SECTION:activity-->
 
 <hr/>
