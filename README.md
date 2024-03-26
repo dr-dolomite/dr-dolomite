@@ -93,7 +93,7 @@
 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#20](https://github.com/iamromulan/quectel-rgmii-toolkit/pull/20) in [iamromulan/quectel-rgmii-toolkit](https://github.com/iamromulan/quectel-rgmii-toolkit)
+1. 🎉 Merged PR [#3](https://github.com/dr-dolomite/MolarSupport/pull/3) in [dr-dolomite/MolarSupport](https://github.com/dr-dolomite/MolarSupport)
 <!--END_SECTION:activity-->
 
 <hr/>
