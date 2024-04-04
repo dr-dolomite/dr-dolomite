@@ -93,7 +93,7 @@
 
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/dr-dolomite/MolarSupport/pull/4) in [dr-dolomite/MolarSupport](https://github.com/dr-dolomite/MolarSupport)
+1. 🎉 Merged PR [#5](https://github.com/dr-dolomite/MolarSupport/pull/5) in [dr-dolomite/MolarSupport](https://github.com/dr-dolomite/MolarSupport)
 <!--END_SECTION:activity-->
 
 <hr/>
