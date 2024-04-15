@@ -93,7 +93,7 @@
 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4](https://github.com/iamromulan/quectel-rgmii-configuration-notes/issues/4#issuecomment-2048526265) in [iamromulan/quectel-rgmii-configuration-notes](https://github.com/iamromulan/quectel-rgmii-configuration-notes)
+1. 🎉 Merged PR [#6](https://github.com/dr-dolomite/MolarSupport/pull/6) in [dr-dolomite/MolarSupport](https://github.com/dr-dolomite/MolarSupport)
 <!--END_SECTION:activity-->
 
 <hr/>
