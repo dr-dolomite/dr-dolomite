@@ -93,7 +93,7 @@
 
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#5](https://github.com/dr-dolomite/simpleadmin-2-dev/pull/5) in [dr-dolomite/simpleadmin-2-dev](https://github.com/dr-dolomite/simpleadmin-2-dev)
+1. ❗ Opened issue [#47](https://github.com/iamromulan/quectel-rgmii-toolkit/issues/47) in [iamromulan/quectel-rgmii-toolkit](https://github.com/iamromulan/quectel-rgmii-toolkit)
 <!--END_SECTION:activity-->
 
 <hr/>
