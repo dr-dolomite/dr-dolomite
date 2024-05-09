@@ -93,7 +93,7 @@
 
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/dr-dolomite/simpleadmin-2-dev/pull/2) in [dr-dolomite/simpleadmin-2-dev](https://github.com/dr-dolomite/simpleadmin-2-dev)
+1. 🗣 Commented on [#43](https://github.com/iamromulan/quectel-rgmii-toolkit/issues/43#issuecomment-2101690930) in [iamromulan/quectel-rgmii-toolkit](https://github.com/iamromulan/quectel-rgmii-toolkit)
 <!--END_SECTION:activity-->
 
 <hr/>
