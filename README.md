@@ -93,7 +93,7 @@
 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#88](https://github.com/iamromulan/quectel-rgmii-toolkit/issues/88#issuecomment-2456276636) in [iamromulan/quectel-rgmii-toolkit](https://github.com/iamromulan/quectel-rgmii-toolkit)
+1. 🗣 Commented on [#91](https://github.com/iamromulan/quectel-rgmii-toolkit/issues/91#issuecomment-2463400056) in [iamromulan/quectel-rgmii-toolkit](https://github.com/iamromulan/quectel-rgmii-toolkit)
 <!--END_SECTION:activity-->
 
 <hr/>
