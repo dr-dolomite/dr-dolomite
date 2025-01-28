@@ -93,7 +93,7 @@
 
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#9](https://github.com/natecarlson/quectel-rgmii-configuration-notes/issues/9) in [natecarlson/quectel-rgmii-configuration-notes](https://github.com/natecarlson/quectel-rgmii-configuration-notes)
+1. 🗣 Commented on [#117](https://github.com/iamromulan/quectel-rgmii-toolkit/pull/117#issuecomment-2617088624) in [iamromulan/quectel-rgmii-toolkit](https://github.com/iamromulan/quectel-rgmii-toolkit)
 <!--END_SECTION:activity-->
 
 <hr/>
