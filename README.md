@@ -15,7 +15,7 @@
 
 <div align="center">
  
- 🔭 I’m currently developing [QuecManager](https://github.com/iamromulan/quectel-rgmii-toolkit) for Quectel Modems! ⭐**
+ <h4>🔭 I’m currently developing [QuecManager](https://github.com/iamromulan/quectel-rgmii-toolkit) for Quectel Modems! ⭐</h4>
  
  🌱 I’m currently learning **Docker & React Frameworks**
 
