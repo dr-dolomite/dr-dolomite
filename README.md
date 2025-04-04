@@ -93,7 +93,7 @@
 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#142](https://github.com/iamromulan/quectel-rgmii-toolkit/issues/142#issuecomment-2776972478) in [iamromulan/quectel-rgmii-toolkit](https://github.com/iamromulan/quectel-rgmii-toolkit)
+1. 🗣 Commented on [#1](https://github.com/dr-dolomite/dr-dolomite/issues/1#issuecomment-2777115239) in [dr-dolomite/dr-dolomite](https://github.com/dr-dolomite/dr-dolomite)
 <!--END_SECTION:activity-->
 
 <hr/>
