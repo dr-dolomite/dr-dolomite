@@ -93,7 +93,7 @@
 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#149](https://github.com/iamromulan/quectel-rgmii-toolkit/issues/149#issuecomment-2816895979) in [iamromulan/quectel-rgmii-toolkit](https://github.com/iamromulan/quectel-rgmii-toolkit)
+1. 🗣 Commented on [#5](https://github.com/dr-dolomite/QuecManager-JS/issues/5#issuecomment-2816936177) in [dr-dolomite/QuecManager-JS](https://github.com/dr-dolomite/QuecManager-JS)
 <!--END_SECTION:activity-->
 
 <hr/>
