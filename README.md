@@ -93,7 +93,7 @@
 
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#23](https://github.com/dr-dolomite/QuecManager-JS/issues/23) in [dr-dolomite/QuecManager-JS](https://github.com/dr-dolomite/QuecManager-JS)
+1. 🎉 Merged PR [#27](https://github.com/dr-dolomite/QuecManager-JS/pull/27) in [dr-dolomite/QuecManager-JS](https://github.com/dr-dolomite/QuecManager-JS)
 <!--END_SECTION:activity-->
 
 <hr/>
