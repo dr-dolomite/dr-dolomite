@@ -93,7 +93,7 @@
 
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#27](https://github.com/dr-dolomite/QuecManager-JS/pull/27) in [dr-dolomite/QuecManager-JS](https://github.com/dr-dolomite/QuecManager-JS)
+1. 🗣 Commented on [#25](https://github.com/dr-dolomite/QuecManager-JS/issues/25#issuecomment-3050888312) in [dr-dolomite/QuecManager-JS](https://github.com/dr-dolomite/QuecManager-JS)
 <!--END_SECTION:activity-->
 
 <hr/>
