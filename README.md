@@ -93,7 +93,7 @@
 
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#28](https://github.com/dr-dolomite/QuecManager-JS/pull/28) in [dr-dolomite/QuecManager-JS](https://github.com/dr-dolomite/QuecManager-JS)
+1. 💪 Opened PR [#177](https://github.com/iamromulan/quectel-rgmii-toolkit/pull/177) in [iamromulan/quectel-rgmii-toolkit](https://github.com/iamromulan/quectel-rgmii-toolkit)
 <!--END_SECTION:activity-->
 
 <hr/>
