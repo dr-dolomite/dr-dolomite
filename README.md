@@ -93,7 +93,7 @@
 
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#37](https://github.com/dr-dolomite/QuecManager-JS/issues/37) in [dr-dolomite/QuecManager-JS](https://github.com/dr-dolomite/QuecManager-JS)
+1. 💪 Opened PR [#182](https://github.com/iamromulan/quectel-rgmii-toolkit/pull/182) in [iamromulan/quectel-rgmii-toolkit](https://github.com/iamromulan/quectel-rgmii-toolkit)
 <!--END_SECTION:activity-->
 
 <hr/>
