@@ -93,7 +93,7 @@
 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#189](https://github.com/iamromulan/quectel-rgmii-toolkit/pull/189) in [iamromulan/quectel-rgmii-toolkit](https://github.com/iamromulan/quectel-rgmii-toolkit)
+1. 🗣 Commented on [#190](https://github.com/iamromulan/quectel-rgmii-toolkit/issues/190#issuecomment-3227588697) in [iamromulan/quectel-rgmii-toolkit](https://github.com/iamromulan/quectel-rgmii-toolkit)
 <!--END_SECTION:activity-->
 
 <hr/>
