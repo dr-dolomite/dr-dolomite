@@ -93,7 +93,7 @@
 
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#25](https://github.com/dr-dolomite/QuecManager-JS/issues/25) in [dr-dolomite/QuecManager-JS](https://github.com/dr-dolomite/QuecManager-JS)
+1. 🗣 Commented on [#25](https://github.com/dr-dolomite/QuecManager-JS/issues/25#issuecomment-3263689987) in [dr-dolomite/QuecManager-JS](https://github.com/dr-dolomite/QuecManager-JS)
 <!--END_SECTION:activity-->
 
 <hr/>
