@@ -6,10 +6,10 @@
 </div>
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Konnichiwa+Visitor!+👋;+I'm+Rus;+I+love+technology+and+anime;+I+also+code+for+fun;+Coldplay+is+my+favorite+band;+Enjoy+your+stay;+Have+a+great+day!;+Leave+a+star+⭐;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+Visitor!+👋;+I'm+Rus;+I+love+technology+and+anime;+I+also+code+for+fun;+Coldplay+is+my+favorite+band;+Enjoy+your+stay;+Have+a+great+day!;+Leave+a+star+⭐;" />
 </h1>
 
-<h3 align="center">A programmer wannabe 👾</h3>
+<h3 align="center">Try QuecManager out! 📶👾</h3>
 
 <br/>
 
