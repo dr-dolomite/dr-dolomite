@@ -103,7 +103,7 @@
 
 <div align="center">
 <h3 align="center">
-If youre enjoying my projects, please consider donating. It would help me with some of the development costs. Thanks!
+If youre enjoying my projects, please consider donating. It would help me with some of the development costs. (i.e. prepaid loads) Thanks a lot!
 </h3>
 <br/>
 <a href='https://ko-fi.com/drdolomite' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
