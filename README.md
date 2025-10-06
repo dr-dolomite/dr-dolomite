@@ -93,7 +93,7 @@
 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#199](https://github.com/iamromulan/quectel-rgmii-toolkit/pull/199#issuecomment-3368835285) in [iamromulan/quectel-rgmii-toolkit](https://github.com/iamromulan/quectel-rgmii-toolkit)
+1. 🚀 Published release [QuecManager BETA 2.3.4](https://github.com/dr-dolomite/QuecManager-JS/releases/tag/v2.3-beta.4) in [dr-dolomite/QuecManager-JS](https://github.com/dr-dolomite/QuecManager-JS)
 <!--END_SECTION:activity-->
 
 <hr/>
