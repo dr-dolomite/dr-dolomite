@@ -93,7 +93,7 @@
 
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#201](undefined) in [iamromulan/quectel-rgmii-toolkit](https://github.com/iamromulan/quectel-rgmii-toolkit)
+1. 💪 Opened PR [#58](undefined) in [dr-dolomite/QuecManager-JS](https://github.com/dr-dolomite/QuecManager-JS)
 <!--END_SECTION:activity-->
 
 <hr/>
