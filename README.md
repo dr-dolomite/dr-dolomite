@@ -93,7 +93,7 @@
 
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#209](https://github.com/iamromulan/quectel-rgmii-toolkit/pull/209) in [iamromulan/quectel-rgmii-toolkit](https://github.com/iamromulan/quectel-rgmii-toolkit)
+1. 🚀 Published release [QuecManager v2.3.9 BETA](https://github.com/dr-dolomite/QuecManager-JS/releases/tag/v2.3-beta.9) in [dr-dolomite/QuecManager-JS](https://github.com/dr-dolomite/QuecManager-JS)
 <!--END_SECTION:activity-->
 
 <hr/>
