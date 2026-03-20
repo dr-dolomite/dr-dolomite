@@ -93,7 +93,7 @@
 
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [QuecManager v2.3.9 BETA](https://github.com/dr-dolomite/QuecManager-JS/releases/tag/v2.3-beta.9) in [dr-dolomite/QuecManager-JS](https://github.com/dr-dolomite/QuecManager-JS)
+1. 🎉 Merged PR [#1](https://github.com/dr-dolomite/QManager/pull/1) in [dr-dolomite/QManager](https://github.com/dr-dolomite/QManager)
 <!--END_SECTION:activity-->
 
 <hr/>
