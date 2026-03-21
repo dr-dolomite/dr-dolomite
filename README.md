@@ -93,7 +93,7 @@
 
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [QManager v0.1.0-beta.1](https://github.com/dr-dolomite/QManager/releases/tag/v0.1.0-beta.1) in [dr-dolomite/QManager](https://github.com/dr-dolomite/QManager)
+1. 🚀 Published release [QManager v0.1.0](https://github.com/dr-dolomite/QManager/releases/tag/v0.1.0) in [dr-dolomite/QManager](https://github.com/dr-dolomite/QManager)
 <!--END_SECTION:activity-->
 
 <hr/>
