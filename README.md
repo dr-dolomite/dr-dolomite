@@ -93,7 +93,7 @@
 
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/dr-dolomite/QManager/pull/4) in [dr-dolomite/QManager](https://github.com/dr-dolomite/QManager)
+1. 🎉 Merged PR [#7](https://github.com/dr-dolomite/QManager/pull/7) in [dr-dolomite/QManager](https://github.com/dr-dolomite/QManager)
 <!--END_SECTION:activity-->
 
 <hr/>
