@@ -93,7 +93,7 @@
 
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [Language Pack — Italian 2026.04.23](https://github.com/dr-dolomite/QManager/releases/tag/lang-it-2026.04.23) in [dr-dolomite/QManager](https://github.com/dr-dolomite/QManager)
+1. 🚀 Published release [Language Pack — Indonesian   2026.04.23](https://github.com/dr-dolomite/QManager/releases/tag/lang-id-2026.04.23) in [dr-dolomite/QManager](https://github.com/dr-dolomite/QManager)
 <!--END_SECTION:activity-->
 
 <hr/>
