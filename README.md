@@ -93,7 +93,7 @@
 
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#13](https://github.com/dr-dolomite/QManager/pull/13) in [dr-dolomite/QManager](https://github.com/dr-dolomite/QManager)
+1. 🚀 Published release [Language Pack — Italian 2026.04.23](https://github.com/dr-dolomite/QManager/releases/tag/lang-it-2026.04.23) in [dr-dolomite/QManager](https://github.com/dr-dolomite/QManager)
 <!--END_SECTION:activity-->
 
 <hr/>
