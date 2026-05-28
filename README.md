@@ -93,7 +93,7 @@
 
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [QManager RM520N BETA v0.1.12](https://github.com/dr-dolomite/QManager-RM520N/releases/tag/v0.1.12) in [dr-dolomite/QManager-RM520N](https://github.com/dr-dolomite/QManager-RM520N)
+1. 💪 Opened PR [#22](https://github.com/dr-dolomite/QManager/pull/22) in [dr-dolomite/QManager](https://github.com/dr-dolomite/QManager)
 <!--END_SECTION:activity-->
 
 <hr/>
