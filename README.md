@@ -107,7 +107,7 @@ It deploys through **[quectel-rgmii-toolkit](https://github.com/iamromulan/quect
 <br/>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#24](https://github.com/dr-dolomite/QManager/issues/24#issuecomment-4719385981) in [dr-dolomite/QManager](https://github.com/dr-dolomite/QManager)
+1. 🚀 Published release [QManager BETA v0.1.30](https://github.com/dr-dolomite/QManager/releases/tag/v0.1.30) in [dr-dolomite/QManager](https://github.com/dr-dolomite/QManager)
 <!--END_SECTION:activity-->
 
 <hr/>
