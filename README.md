@@ -107,7 +107,7 @@ It deploys through **[quectel-rgmii-toolkit](https://github.com/iamromulan/quect
 <br/>
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#219](https://github.com/iamromulan/quectel-rgmii-toolkit/pull/219) in [iamromulan/quectel-rgmii-toolkit](https://github.com/iamromulan/quectel-rgmii-toolkit)
+1. 🚀 Published release [vivo English Kit v1.0.0](https://github.com/dr-dolomite/vivo-office-kit-english/releases/tag/v1.0.0) in [dr-dolomite/vivo-office-kit-english](https://github.com/dr-dolomite/vivo-office-kit-english)
 <!--END_SECTION:activity-->
 
 <hr/>
