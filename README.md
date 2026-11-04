@@ -107,7 +107,7 @@ It deploys through **[quectel-rgmii-toolkit](https://github.com/iamromulan/quect
 <br/>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#15](https://github.com/dr-dolomite/QManager-RM520N/issues/15#issuecomment-6616417124) in [dr-dolomite/QManager-RM520N](https://github.com/dr-dolomite/QManager-RM520N)
+1. 💪 Opened PR [#222](https://github.com/iamromulan/quectel-rgmii-toolkit/pull/222) in [iamromulan/quectel-rgmii-toolkit](https://github.com/iamromulan/quectel-rgmii-toolkit)
 <!--END_SECTION:activity-->
 
 <hr/>
